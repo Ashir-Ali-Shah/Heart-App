@@ -48,13 +48,6 @@ Feature Engineering: Advanced preprocessing with polynomial features and interac
 Cross-validation: Robust model validation techniques
 Scaling: StandardScaler for feature normalization
 
-🎨 Screenshots
-Add screenshots of your application here showing:
-
-Main input interface
-Prediction results
-Visualization dashboards
-Risk assessment panel
 
 ⚠️ Important Notes
 Medical Disclaimer
